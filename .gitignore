@@ -1,20 +1,7 @@
-# Python
 venv/
-.venv/
 __pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
-
-# Go
-scraper/scraper
-scraper/main
-bin/
-pkg/
-
-# Data & OS
-data/*.csv
+.ipynb_checkpoints/
 data/*.xml
-data/*.zip
-.DS_Store
+scraper/data/
+*.png
 .env
